@@ -1,0 +1,24 @@
+[theme]
+base = "dark"
+primaryColor = "#FF9A1F"
+backgroundColor = "#0E141A"
+secondaryBackgroundColor = "#151C23"
+textColor = "#E9EEF3"
+linkColor = "#1B9AF0"
+font = "'Space Grotesk':https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap, sans-serif"
+baseRadius = "1rem"
+buttonRadius = "full"
+borderColor = "#232D37"
+dataframeBorderColor = "#232D37"
+dataframeHeaderBackgroundColor = "#1B242D"
+showWidgetBorder = true
+greenColor = "#22C55E"
+blueColor = "#1B9AF0"
+orangeColor = "#E39A1D"
+redColor = "#D6336C"
+
+[server]
+maxUploadSize = 200
+
+[browser]
+gatherUsageStats = false

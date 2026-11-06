@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Kaggle data: large, and you shouldn't re-upload it
+data/train.csv
+# Rebuilt automatically by the app
+data/inventory.csv
